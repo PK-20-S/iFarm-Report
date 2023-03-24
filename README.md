@@ -1,2 +1,2 @@
 # iFarm-Report
-Detailed report of Ifarm progect
+Detailed report of ifarm project
